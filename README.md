@@ -69,6 +69,7 @@ Leet-Code
 | [0495-teemo-attacking](https://github.com/Ankushsrawat/Leet-Code/tree/main/0495-teemo-attacking/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/ankush850/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/ankush850/Leet-Code/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/Ghost-skills007/Leet-Code/tree/main/0575-distribute-candies/) | Easy |
 | [0605-can-place-flowers](https://github.com/Ankushsrawat/Leet-Code/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankushsrawat/Leet-Code/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -76,6 +77,7 @@ Leet-Code
 | [0682-baseball-game](https://github.com/ankush850/Leet-Code/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/ankush850/Leet-Code/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ankushsrawat/Leet-Code/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
+| [0739-daily-temperatures](https://github.com/Ghost-skills007/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
 | [0832-flipping-an-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0832-flipping-an-image/) | Easy |
 | [0877-stone-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/0877-stone-game/) | Medium |
 | [0888-fair-candy-swap](https://github.com/ankush850/Leet-Code/tree/master/0888-fair-candy-swap) |
@@ -97,6 +99,7 @@ Leet-Code
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ankushsrawat/Leet-Code/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/ankush850/Leet-Code/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/Ankushsrawat/Leet-Code/tree/main/1550-three-consecutive-odds/) | Easy |
+| [1563-stone-game-v](https://github.com/Ghost-skills007/Leet-Code/tree/main/1563-stone-game-v/) | Hard |
 | [1598-crawler-log-folder](https://github.com/ankush850/Leet-Code/tree/master/1598-crawler-log-folder) |
 | [1652-defuse-the-bomb](https://github.com/Ankushsrawat/Leet-Code/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Ankushsrawat/Leet-Code/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -124,9 +127,12 @@ Leet-Code
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ghost-skills007/Leet-Code/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2974-minimum-number-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
 | [3024-type-of-triangle](https://github.com/Ankushsrawat/Leet-Code/tree/main/3024-type-of-triangle/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ghost-skills007/Leet-Code/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-skills007/Leet-Code/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ankushsrawat/Leet-Code/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3379-transformed-array](https://github.com/ankush850/Leet-Code/tree/master/3379-transformed-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/ankush850/Leet-Code/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Ghost-skills007/Leet-Code/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -148,9 +154,11 @@ Leet-Code
 | [0013-roman-to-integer](https://github.com/ankush850/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ankush850/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ankush850/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ghost-skills007/Leet-Code/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ankush850/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ankushsrawat/Leet-Code/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0043-multiply-strings](https://github.com/Ankushsrawat/Leet-Code/tree/main/0043-multiply-strings/) | Medium |
+| [0044-wildcard-matching](https://github.com/Ghost-skills007/Leet-Code/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/Ankushsrawat/Leet-Code/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/ankush850/Leet-Code/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ankush850/Leet-Code/tree/master/0067-add-binary) |
@@ -229,6 +237,7 @@ Leet-Code
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Ankushsrawat/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0575-distribute-candies](https://github.com/Ghost-skills007/Leet-Code/tree/main/0575-distribute-candies/) | Easy |
 | [0888-fair-candy-swap](https://github.com/ankush850/Leet-Code/tree/master/0888-fair-candy-swap) |
 | [1189-maximum-number-of-balloons](https://github.com/ankush850/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/ankush850/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
@@ -246,6 +255,7 @@ Leet-Code
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ghost-skills007/Leet-Code/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ghost-skills007/Leet-Code/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Ghost-skills007/Leet-Code/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/ankush850/Leet-Code/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3731-find-missing-elements](https://github.com/Ankushsrawat/Leet-Code/tree/main/3731-find-missing-elements/) | Easy |
@@ -272,6 +282,7 @@ Leet-Code
 | [0029-divide-two-integers](https://github.com/Ankushsrawat/Leet-Code/tree/main/0029-divide-two-integers/) | Medium |
 | [0043-multiply-strings](https://github.com/Ankushsrawat/Leet-Code/tree/main/0043-multiply-strings/) | Medium |
 | [0048-rotate-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/Ghost-skills007/Leet-Code/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/Ghost-skills007/Leet-Code/tree/main/0060-permutation-sequence/) | Hard |
 | [0066-plus-one](https://github.com/ankush850/Leet-Code/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ankush850/Leet-Code/tree/master/0067-add-binary) |
@@ -304,6 +315,7 @@ Leet-Code
 | [1406-stone-game-iii](https://github.com/Ankushsrawat/Leet-Code/tree/main/1406-stone-game-iii/) | Hard |
 | [1486-xor-operation-in-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/ankush850/Leet-Code/tree/master/1512-number-of-good-pairs) |
+| [1563-stone-game-v](https://github.com/Ghost-skills007/Leet-Code/tree/main/1563-stone-game-v/) | Hard |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankush850/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Ghost-skills007/Leet-Code/tree/main/2029-stone-game-ix/) | Medium |
@@ -316,6 +328,7 @@ Leet-Code
 | [2928-distribute-candies-among-children-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3024-type-of-triangle](https://github.com/Ankushsrawat/Leet-Code/tree/main/3024-type-of-triangle/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-skills007/Leet-Code/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Ankushsrawat/Leet-Code/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3270-find-the-key-of-the-numbers](https://github.com/ankush850/Leet-Code/tree/master/3270-find-the-key-of-the-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ghost-skills007/Leet-Code/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -323,6 +336,7 @@ Leet-Code
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/Ankushsrawat/Leet-Code/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ghost-skills007/Leet-Code/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankush850/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ankush850/Leet-Code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -334,6 +348,8 @@ Leet-Code
 | [0010-regular-expression-matching](https://github.com/Ankushsrawat/Leet-Code/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/ankush850/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ankushsrawat/Leet-Code/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0044-wildcard-matching](https://github.com/Ghost-skills007/Leet-Code/tree/main/0044-wildcard-matching/) | Hard |
+| [0050-powx-n](https://github.com/Ghost-skills007/Leet-Code/tree/main/0050-powx-n/) | Medium |
 | [0060-permutation-sequence](https://github.com/Ghost-skills007/Leet-Code/tree/main/0060-permutation-sequence/) | Hard |
 | [0224-basic-calculator](https://github.com/ankush850/Leet-Code/tree/master/0224-basic-calculator) |
 | [0342-power-of-four](https://github.com/Ghost-skills007/Leet-Code/tree/main/0342-power-of-four/) | Easy |
@@ -425,6 +441,7 @@ Leet-Code
 | [1004-max-consecutive-ones-iii](https://github.com/Ankushsrawat/Leet-Code/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ankush850/Leet-Code/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-skills007/Leet-Code/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -514,6 +531,7 @@ Leet-Code
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Ghost-skills007/Leet-Code/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ankush850/Leet-Code/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-skills007/Leet-Code/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ghost-skills007/Leet-Code/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -522,6 +540,8 @@ Leet-Code
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ankush850/Leet-Code/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Ankushsrawat/Leet-Code/tree/main/0010-regular-expression-matching/) | Hard |
+| [0022-generate-parentheses](https://github.com/Ghost-skills007/Leet-Code/tree/main/0022-generate-parentheses/) | Medium |
+| [0044-wildcard-matching](https://github.com/Ghost-skills007/Leet-Code/tree/main/0044-wildcard-matching/) | Hard |
 | [0070-climbing-stairs](https://github.com/ankush850/Leet-Code/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Ghost-skills007/Leet-Code/tree/main/0085-maximal-rectangle/) | Hard |
 | [0115-distinct-subsequences](https://github.com/Ankushsrawat/Leet-Code/tree/main/0115-distinct-subsequences/) | Hard |
@@ -540,6 +560,7 @@ Leet-Code
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/Ankushsrawat/Leet-Code/tree/main/1147-longest-chunked-palindrome-decomposition/) | Hard |
 | [1406-stone-game-iii](https://github.com/Ankushsrawat/Leet-Code/tree/main/1406-stone-game-iii/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ankushsrawat/Leet-Code/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1563-stone-game-v](https://github.com/Ghost-skills007/Leet-Code/tree/main/1563-stone-game-v/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Ghost-skills007/Leet-Code/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -552,6 +573,7 @@ Leet-Code
 | [0224-basic-calculator](https://github.com/ankush850/Leet-Code/tree/master/0224-basic-calculator) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ankush850/Leet-Code/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0682-baseball-game](https://github.com/ankush850/Leet-Code/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Ghost-skills007/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/ankush850/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankush850/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1598-crawler-log-folder](https://github.com/ankush850/Leet-Code/tree/master/1598-crawler-log-folder) |
@@ -560,6 +582,7 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ankush850/Leet-Code/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/Ghost-skills007/Leet-Code/tree/main/0044-wildcard-matching/) | Hard |
 | [0135-candy](https://github.com/Ankushsrawat/Leet-Code/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/ankush850/Leet-Code/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ankushsrawat/Leet-Code/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -661,6 +684,7 @@ Leet-Code
 | [1260-shift-2d-grid](https://github.com/ankush850/Leet-Code/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/ankush850/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ghost-skills007/Leet-Code/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3379-transformed-array](https://github.com/ankush850/Leet-Code/tree/master/3379-transformed-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Tree
@@ -682,6 +706,7 @@ Leet-Code
 | [0204-count-primes](https://github.com/ankush850/Leet-Code/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Ankushsrawat/Leet-Code/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankush850/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-skills007/Leet-Code/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankush850/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
@@ -706,6 +731,7 @@ Leet-Code
 | [0877-stone-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Ankushsrawat/Leet-Code/tree/main/1406-stone-game-iii/) | Hard |
+| [1563-stone-game-v](https://github.com/Ghost-skills007/Leet-Code/tree/main/1563-stone-game-v/) | Hard |
 | [2029-stone-game-ix](https://github.com/Ghost-skills007/Leet-Code/tree/main/2029-stone-game-ix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -723,6 +749,7 @@ Leet-Code
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Ankushsrawat/Leet-Code/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Ghost-skills007/Leet-Code/tree/main/0085-maximal-rectangle/) | Hard |
+| [0739-daily-temperatures](https://github.com/Ghost-skills007/Leet-Code/tree/main/0739-daily-temperatures/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ankush850/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -747,6 +774,7 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2928-distribute-candies-among-children-i](https://github.com/Ankushsrawat/Leet-Code/tree/main/2928-distribute-candies-among-children-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-skills007/Leet-Code/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ankushsrawat/Leet-Code/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Rolling Hash
 | Problem Name | Difficulty |
@@ -783,8 +811,10 @@ Leet-Code
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Ghost-skills007/Leet-Code/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/Ghost-skills007/Leet-Code/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Ghost-skills007/Leet-Code/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/Ghost-skills007/Leet-Code/tree/main/0078-subsets/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
@@ -801,6 +831,7 @@ Leet-Code
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Ghost-skills007/Leet-Code/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Ghost-skills007/Leet-Code/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/0052-n-queens-ii/) | Hard |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -817,4 +848,8 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Ghost-skills007/Leet-Code/tree/main/0037-sudoku-solver/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Ghost-skills007/Leet-Code/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
