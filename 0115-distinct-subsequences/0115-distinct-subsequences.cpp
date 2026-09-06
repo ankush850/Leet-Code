@@ -1,28 +1,28 @@
+#include <string>
+#include <vector>
+
 class Solution {
 public:
-int dp[1001][1001];
-    int solve(string &s,string &t,int ind1,int ind2)
-    {
-        if(ind2==0) return 1; 
-        if(ind1==0) return 0; 
-        if(dp[ind1][ind2] != -1)
-        {
-            return dp[ind1][ind2];
+    int numDistinct(std::string s, std::string t) {
+        int m = s.length();
+        int n = t.length();
+        if (m < n) return 0;
+        std::vector<unsigned long long> dp(n + 1, 0);
+        dp[0] = 1;
+        for (int i = 1; i <= m; ++i) {
+            for (int j = n; j >= 1; --j) {
+                if (s[i - 1] == t[j - 1]) {
+                    dp[j] += dp[j - 1];
+                }
+            }
         }
-        if(s[ind1-1]==t[ind2-1])
-        {
-            return dp[ind1][ind2]= solve(s,t,ind1-1,ind2-1)+solve(s,t,ind1-1,ind2);
-        }
-        else
-        {
-            return dp[ind1][ind2]= solve(s,t,ind1-1,ind2);
-        }
-    }  
-
-
-   
-    int numDistinct(string s, string t) {
-        memset(dp,-1,sizeof(dp));
-        return solve(s,t,s.size(),t.size());
+        
+        return static_cast<int>(dp[n]);
     }
 };
+
+auto speedup = []() {
+    std::ios_base::sync_with_stdio(false);
+    std::cin.tie(NULL);
+    return 0;
+}();
