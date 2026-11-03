@@ -200,6 +200,7 @@ Leet-Code
 | [3721-longest-balanced-subarray-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ghost-skills007/Leet-Code/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Ankushsrawat/Leet-Code/tree/main/3731-find-missing-elements/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ghost-skills007/Leet-Code/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Ghost-skills007/Leet-Code/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/Ghost-skills007/Leet-Code/tree/main/3886-sum-of-sortable-integers/) | Hard |
@@ -470,6 +471,7 @@ Leet-Code
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ghost-skills007/Leet-Code/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ankush850/Leet-Code/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ghost-skills007/Leet-Code/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ghost-skills007/Leet-Code/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ankush850/Leet-Code/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ankush850/Leet-Code/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/Ghost-skills007/Leet-Code/tree/main/3886-sum-of-sortable-integers/) | Hard |
