@@ -143,6 +143,7 @@ Leet-Code
 | [1563-stone-game-v](https://github.com/Ghost-skills007/Leet-Code/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ghost-skills007/Leet-Code/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1598-crawler-log-folder](https://github.com/ankush850/Leet-Code/tree/master/1598-crawler-log-folder) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Ghost-skills007/Leet-Code/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1652-defuse-the-bomb](https://github.com/Ankushsrawat/Leet-Code/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ghost-skills007/Leet-Code/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Ankushsrawat/Leet-Code/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -901,6 +902,7 @@ Leet-Code
 | [0295-find-median-from-data-stream](https://github.com/Ghost-skills007/Leet-Code/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0502-ipo](https://github.com/Ghost-skills007/Leet-Code/tree/main/0502-ipo/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankushsrawat/Leet-Code/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Ghost-skills007/Leet-Code/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ghost-skills007/Leet-Code/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Ghost-skills007/Leet-Code/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Ghost-skills007/Leet-Code/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
@@ -985,6 +987,7 @@ Leet-Code
 | [0832-flipping-an-image](https://github.com/Ankushsrawat/Leet-Code/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/ankush850/Leet-Code/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/ankush850/Leet-Code/tree/master/1260-shift-2d-grid) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Ghost-skills007/Leet-Code/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/ankush850/Leet-Code/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Ghost-skills007/Leet-Code/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2974-minimum-number-game](https://github.com/Ankushsrawat/Leet-Code/tree/main/2974-minimum-number-game/) | Easy |
@@ -1118,6 +1121,7 @@ Leet-Code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Ankushsrawat/Leet-Code/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Ghost-skills007/Leet-Code/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ghost-skills007/Leet-Code/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2336-smallest-number-in-infinite-set](https://github.com/Ghost-skills007/Leet-Code/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Segment Tree
