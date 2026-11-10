@@ -199,6 +199,7 @@ Leet-Code
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ghost-skills007/Leet-Code/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ghost-skills007/Leet-Code/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/Ghost-skills007/Leet-Code/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ghost-skills007/Leet-Code/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/3721-longest-balanced-subarray-ii/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ghost-skills007/Leet-Code/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -786,6 +787,7 @@ Leet-Code
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ghost-skills007/Leet-Code/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/Ghost-skills007/Leet-Code/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/Ghost-skills007/Leet-Code/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/Ghost-skills007/Leet-Code/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [4068-maximize-meeting-earnings-with-idle-gaps](https://github.com/Ghost-skills007/Leet-Code/tree/main/4068-maximize-meeting-earnings-with-idle-gaps/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
